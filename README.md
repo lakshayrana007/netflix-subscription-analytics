@@ -28,7 +28,7 @@ The objective was to evaluate revenue sustainability, identify structural churn 
 ```
 netflix-subscription-analytics/
 │
-├── docs/
+├── Insights/
 │   └── Netflix_Subscription_Analytics_Report.docx
 │
 ├── python/
